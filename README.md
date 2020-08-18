@@ -1,6 +1,6 @@
 # Skynet-Image-Editor
 Skynet Submission Bounty
 
-#Demonstration
+# Demonstration
 
 Soon ...
